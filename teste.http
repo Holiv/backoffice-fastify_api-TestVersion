@@ -1,0 +1,9 @@
+### DELETE
+DELETE https://eaed-2804-56c-ff50-3200-8074-749d-c42f-e11e.ngrok-free.app/categories/3 HTTP/1.1
+
+
+### GET
+GET https://eaed-2804-56c-ff50-3200-8074-749d-c42f-e11e.ngrok-free.app/categories
+
+### GET BY ID
+GET https://eaed-2804-56c-ff50-3200-8074-749d-c42f-e11e.ngrok-free.app/categories/3
